@@ -18,8 +18,8 @@
 -----------------------------------------------
 - 취미 :
 * 축구 : 초등학교 시절부터 꾸준히 즐겨왔다. 중학교 시절 학교 친구들과 학교 동아리 축구단에 같이 들어와서 같이 경기 뛰자고 권유받기도 함.(참고로 아침에 일찍 나와서 3~40분 훈련 하는 것이 귀찮아 거절하였으나 2학년 강남구 축구 우승 및 3학년 때 서울시 축구 우승 등의 2관왕을 꿰차면서 2년 연속 일본, 중국 여행을 갔다온 것을 보고 현재까지 후회중이라는 비운의 설화)
-* 여행 : 고등학교 시절부터 여유가 되는 여름 및 겨울 방학에 친구들과 스키장 혹은 바다, 계곡 등 놀러가는 것을 즐기고 있다.
-<img src="/path/to/img.jpg" width="450px" height="300px" title="2021 겨울방학 스키장" alt="skiing"></img><br/>
+* 여행 : 고등학교 시절부터 여유가 되는 여름 및 겨울 방학에 친구들과 스키장 혹은 바다, 계곡 등 놀러가는 것을 즐기고 있다.   
+<img src="‪C:\Users\박진수\OneDrive\바탕 화면\오픈소스\skiing.jpg" width="450px" height="300px" title="2021 겨울방학 스키장" alt="skiing"></img><br/>
 
 <!---
 autoblossom/autoblossom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
