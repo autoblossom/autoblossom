@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @autoblossom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 학교 : 단국대학교
+- 학과 : 컴퓨터공학과
+- 학번 : 32181911
+- 이름 : 박진수
 
-- asdasdasd
-- asdasdasd
 
 <!---
 autoblossom/autoblossom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
